@@ -1,0 +1,15 @@
+
+#python
+*.pyc
+__pycache__/
+*.pyc~
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+#macOS
+.DS_Store
+
+#pytest
+.pytest_cache/
